@@ -1,0 +1,9 @@
+{
+	"name": "CopyMovies",
+	"properties": {
+		"folder": {
+			"name": "pipeline_curso"
+		},
+		"annotations": []
+	}
+}
