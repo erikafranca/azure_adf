@@ -1,9 +1,12 @@
 {
-	"name": "AzureSqlTable1",
+	"name": "DS_tblMovies",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "erika_dw",
 			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "Movies"
 		},
 		"annotations": [],
 		"type": "AzureSqlTable",
